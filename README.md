@@ -2,7 +2,8 @@
 - 👀 Hi confused! I'm not understanding T^T
 - 🌱 I’m currently learning ... on powershell
 - 💞️ I’m looking to collaborate on ... wait lang nag lisod pa kos permission para inig push (again T^T)
-- 📫 How to reach me ... grab me with your slender skeleton arms
+- 📫 How to reach me ... grab me with your slender skeleton arms (buff is goood)
+- ![TheRoadToElDoradoBothGIF](https://github.com/kcenizaj/kcenizaj/assets/150229810/5bbbd558-6d87-4bb2-b519-cfacb62e50ea)
 - 😄 Pronouns: ... Hersheys
 - ⚡ Fun fact: ... A donkey is also called an ass. 
 
