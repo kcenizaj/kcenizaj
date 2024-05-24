@@ -1,3 +1,5 @@
+https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYThzYjRsMnZpMTd4ZmprMnhvZWxoN2hmdmNmMW5saGFyMjZtMmVkbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jytZM6Gs13OIJKk6zT/giphy.gif
+
 - 👋 Hi, I’m Confused
 - 👀 Hi confused! I'm not understanding T^T
 - 🌱 I’m currently learning how to use Git and GitHub to manage my project files, collaborate with others, and track changes to my code.
@@ -27,7 +29,7 @@ ohohohoohohoh
 
 ![HahahaLaughGIF](https://github.com/kcenizaj/kcenizaj/assets/150229810/2bba2a20-a45e-4d3f-abd3-2fed5d997000)
 
-
+https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExanR5bzVuYmJqaWVlc2k0dDU2bm1kZG1rdG8wdjBsMHhuanU1bHpraSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/bqUndFqWcZwWPTyICu/giphy.gif
 
 <!---
 kcenizaj/kcenizaj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
