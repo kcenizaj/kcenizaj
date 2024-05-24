@@ -1,4 +1,3 @@
-<iframe src="https://giphy.com/embed/jytZM6Gs13OIJKk6zT" width="480" height="421" frameBorder="0" class="giphy-embed" allowFullScreen> wahw </iframe><p><a href="https://giphy.com/stickers/bear-kuma-ketakuma-jytZM6Gs13OIJKk6zT">via GIPHY</a></p>
 
 - 👋 Hi, I’m Confused
 - 👀 Hi confused! I'm not understanding T^T
@@ -29,7 +28,6 @@ ohohohoohohoh
 
 ![HahahaLaughGIF](https://github.com/kcenizaj/kcenizaj/assets/150229810/2bba2a20-a45e-4d3f-abd3-2fed5d997000)
 
-https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExanR5bzVuYmJqaWVlc2k0dDU2bm1kZG1rdG8wdjBsMHhuanU1bHpraSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/bqUndFqWcZwWPTyICu/giphy.gif
 
 <!---
 kcenizaj/kcenizaj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
