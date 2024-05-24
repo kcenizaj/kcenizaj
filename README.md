@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Confused
 - 👀 Hi confused! I'm not understanding T^T
-- 🌱 I’m currently learning ... on powershell
+- 🌱 I’m currently learning how to use Git and GitHub to manage my project files, collaborate with others, and track changes to my code.
 - 💞️ I’m looking to collaborate on ... wait lang nag lisod pa kos permission para inig push (again T^T)
 - 📫 How to reach me ... grab me with your slender skeleton arms (buff is goood)
   
