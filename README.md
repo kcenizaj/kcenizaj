@@ -6,6 +6,10 @@
 - 😄 Pronouns: ... Hersheys
 - ⚡ Fun fact: ... A donkey is also called an ass. 
 
+
+p.s will edit this latuurr
+
+is this private or public?
 <!---
 kcenizaj/kcenizaj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
