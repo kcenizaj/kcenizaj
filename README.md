@@ -1,4 +1,4 @@
-https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYThzYjRsMnZpMTd4ZmprMnhvZWxoN2hmdmNmMW5saGFyMjZtMmVkbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jytZM6Gs13OIJKk6zT/giphy.gif
+<iframe src="https://giphy.com/embed/jytZM6Gs13OIJKk6zT" width="480" height="421" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/bear-kuma-ketakuma-jytZM6Gs13OIJKk6zT">via GIPHY</a></p>
 
 - 👋 Hi, I’m Confused
 - 👀 Hi confused! I'm not understanding T^T
