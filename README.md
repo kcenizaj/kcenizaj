@@ -18,6 +18,7 @@ can i add a gif?
 ![MathCalculateGIF](https://github.com/kcenizaj/kcenizaj/assets/150229810/8a13035c-63d3-4150-96d1-5c1690bf7b84)
 щ(ʘ╻ʘ)щ 
 
+ohohohoohohoh
 <!---
 kcenizaj/kcenizaj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
