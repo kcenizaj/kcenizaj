@@ -23,6 +23,11 @@ can i add a gif?
 щ(ʘ╻ʘ)щ 
 
 ohohohoohohoh
+
+![HahahaLaughGIF](https://github.com/kcenizaj/kcenizaj/assets/150229810/2bba2a20-a45e-4d3f-abd3-2fed5d997000)
+
+
+
 <!---
 kcenizaj/kcenizaj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
