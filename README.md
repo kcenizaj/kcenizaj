@@ -4,9 +4,6 @@
 - 🌱 I’m currently learning how to use Git and GitHub to manage my project files, collaborate with others, and track changes to my code.
 - 💞️ I’m looking to collaborate on ... wait lang 
 - 📫 How to reach me ... don't
-  
- 
-(*/ω＼*)
 - 😄 Pronouns: ... Hersheys
 - ⚡ Fun fact: ... A donkey is also called an ass. 
 
