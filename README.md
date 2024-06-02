@@ -11,9 +11,6 @@
   <a href="https://github.com/kcenizaj">
     <img src="https://img.shields.io/badge/GitHub-kcenizaj-181717?style=flat-square&logo=github" alt="GitHub">
   </a>
-  <a href="https://www.linkedin.com/in/kcenizaj/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
-  </a>
 </p>
 
 <!-- Introduction -->
@@ -21,8 +18,8 @@
 - 🌱 I’m currently learning how to use **Git and GitHub** to manage my project files, collaborate with others, and track changes to my code.
 - 💞️ I’m looking to collaborate on exciting projects (more details to come!).
 - 📫 How to reach me ... don't.
-- 😄 Pronouns: ... Hersheys.
-- ⚡ Fun fact: ... A donkey is also called an ass.
+- 😄 Pronouns: Hersheys.
+- ⚡ Fun fact: A donkey is also called an ass.
 
 <!-- GIF -->
 <p align="center">
@@ -37,21 +34,21 @@
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 
 <!-- Projects -->
 ## 📂 Projects
-- [Project 1](https://github.com/kcenizaj/project1): Description of project 1.
-- [Project 2](https://github.com/kcenizaj/project2): Description of project 2.
-- [Project 3](https://github.com/kcenizaj/project3): Description of project 3.
+- [Student Management System Project](https://github.com/kcenizaj/StudentManagementSystem.git): This is a simple and basic Student Management System Project.
+- [Web Portfolio](https://github.com/kcenizaj/Web_Portfolio.git): This is my soon-to-be Web Portfolio.
+- [Library Management System](https://github.com/kcenizaj/Lib_Management_System.git): This is a simple and plain Library Management System.
 
 <!-- Connect -->
 ## 🌐 Connect with Me
 <p align="center">
   <a href="https://github.com/kcenizaj">
     <img src="https://img.shields.io/badge/GitHub-kcenizaj-181717?style=flat-square&logo=github" alt="GitHub">
-  </a>
-  <a href="https://www.linkedin.com/in/kcenizaj/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
   </a>
 </p>
 
