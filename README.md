@@ -16,14 +16,18 @@
 <!-- Introduction -->
 ## 👋 About Me
 - 🌱 I’m currently learning how to use **Git and GitHub** to manage my project files, collaborate with others, and track changes to my code.
-- 💞️ I’m looking to collaborate on exciting projects (more details to come!).
-- 📫 How to reach me ... don't.
-- 😄 Pronouns: Hersheys.
-- ⚡ Fun fact: A donkey is also called an ass.
+- 💞️ I’m looking to collaborate on exciting projects (more details to come!). <p align = "center"><img src="https://github.com/kcenizaj/kcenizaj/assets/150229810/17535cb4-74e9-4e81-8e17-afd0c55ede13" alt="Disappearing man" width="150"></p>
 
+- 📫 How to reach me ... don't. But if you must, then quackersnackercracker@duck.com 🦆 <p align="center"> <img src="https://github.com/kcenizaj/kcenizaj/assets/150229810/305d952f-0da9-4f60-bc6b-10a2828183ef" alt="Fluffy yellow duck" width="150"></p>
+- 🍫 Pronouns: Hersheys.
+- 🫏 Fun fact: A donkey is also called an ass. <p align = "center"> <img src="https://github.com/kcenizaj/kcenizaj/assets/150229810/843805f7-a304-4a9c-829c-2687857b3103" alt="An ass" width="150"> </p>
+
+
+<br>
+<br>
 <!-- GIF -->
 <p align="center">
-  <img src="https://github.com/kcenizaj/kcenizaj/assets/150229810/2bba2a20-a45e-4d3f-abd3-2fed5d997000" alt="HahahaLaughGIF" width="200"/>
+  <img src="https://github.com/kcenizaj/kcenizaj/assets/150229810/2bba2a20-a45e-4d3f-abd3-2fed5d997000" alt="Going Crazy Laugh" width="200"/>
 </p>
 
 <!-- Skills -->
